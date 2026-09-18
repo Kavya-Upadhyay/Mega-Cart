@@ -8,7 +8,7 @@ import { getFirestore } from '@firebase/firestore';
 // Your web app's object contain Firebase configuration
 // placeholder values (your-api-key, etc.) replaced with the actual values from my Firebase project.
 const firebaseConfig = {
-  apiKey: "AIzaSyDzdc6B_R5qfZ0sxsphZVYsx3wbIzqBJwQ",
+  apiKey: "",
   authDomain: "fir-final-project-9a40c.firebaseapp.com",
   databaseURL: "https://fir-final-project-9a40c-default-rtdb.firebaseio.com",
   projectId: "fir-final-project-9a40c",
